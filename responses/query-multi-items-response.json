@@ -1,0 +1,40 @@
+{
+    "Items": [
+        {
+            "Amount": {
+                "N": "14.3"
+            },
+            "OrderId": {
+                "S": "ORD001"
+            },
+            "Username": {
+                "S": "Gilbert"
+            }
+        },
+        {
+            "Amount": {
+                "N": "500"
+            },
+            "OrderId": {
+                "S": "ORD005"
+            },
+            "Username": {
+                "S": "Gilbert"
+            }
+        },
+        {
+            "Amount": {
+                "N": "80"
+            },
+            "OrderId": {
+                "S": "ORD07"
+            },
+            "Username": {
+                "S": "Gilbert"
+            }
+        }
+    ],
+    "Count": 3,
+    "ScannedCount": 3,
+    "ConsumedCapacity": null
+}

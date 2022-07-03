@@ -1,0 +1,1 @@
+aws dynamodb scan --table-name UserOrdersTable --filter-expression "Amount > :amount" --expression-attribute-values '{":amount": {"N":"50" } }'

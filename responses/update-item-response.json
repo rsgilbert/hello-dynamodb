@@ -1,0 +1,17 @@
+{
+    "Attributes": {
+        "Address": {
+            "M": {
+                "Street": {
+                    "S": "Kyebando"
+                },
+                "City": {
+                    "S": "Kampala"
+                }
+            }
+        },
+        "Username": {
+            "S": "pythagoras"
+        }
+    }
+}
