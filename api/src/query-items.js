@@ -7,7 +7,7 @@ const query = new QueryCommand({
         "#no":"No"
     },
     ExpressionAttributeValues: {
-        ":no":"ITM0001"
+        ":no":"ITM005"
     },
     KeyConditionExpression: "#no = :no"
 })
