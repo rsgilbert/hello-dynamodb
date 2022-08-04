@@ -1,4 +1,4 @@
-import { DynamoDBDocumentClient,QueryCommand } from '@aws-sdk/lib-dynamodb';
+import { DynamoDBDocumentClient } from '@aws-sdk/lib-dynamodb';
 import { DynamoDBClient } from '@aws-sdk/client-dynamodb';
 
 const region = 'ap-south-1';
