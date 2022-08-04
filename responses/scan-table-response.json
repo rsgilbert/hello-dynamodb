@@ -1,0 +1,84 @@
+{
+    "Items": [
+        {
+            "Amount": {
+                "N": "1000"
+            },
+            "OrderId": {
+                "S": "ORD001"
+            },
+            "Username": {
+                "S": "Moses"
+            }
+        },
+        {
+            "Amount": {
+                "N": "180"
+            },
+            "OrderId": {
+                "S": "ORD08"
+            },
+            "Username": {
+                "S": "Moses"
+            }
+        },
+        {
+            "Amount": {
+                "N": "24.23"
+            },
+            "OrderId": {
+                "S": "ORD001"
+            },
+            "Username": {
+                "S": "Solomon"
+            }
+        },
+        {
+            "Amount": {
+                "N": "300"
+            },
+            "OrderId": {
+                "S": "ORD22"
+            },
+            "Username": {
+                "S": "Peter"
+            }
+        },
+        {
+            "Amount": {
+                "N": "14.3"
+            },
+            "OrderId": {
+                "S": "ORD001"
+            },
+            "Username": {
+                "S": "Gilbert"
+            }
+        },
+        {
+            "Amount": {
+                "N": "500"
+            },
+            "OrderId": {
+                "S": "ORD005"
+            },
+            "Username": {
+                "S": "Gilbert"
+            }
+        },
+        {
+            "Amount": {
+                "N": "80"
+            },
+            "OrderId": {
+                "S": "ORD07"
+            },
+            "Username": {
+                "S": "Gilbert"
+            }
+        }
+    ],
+    "Count": 7,
+    "ScannedCount": 7,
+    "ConsumedCapacity": null
+}
