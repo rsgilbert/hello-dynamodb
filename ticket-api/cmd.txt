@@ -1,0 +1,2 @@
+// Connect to server
+ssh -i app-server-key.pem ec2-user@43.204.60.231
